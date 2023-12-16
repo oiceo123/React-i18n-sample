@@ -1,4 +1,4 @@
-<h1>React I18n</h1>
+<h1>React i18n sample</h1>
 
 <p>ใช้สำหรับเรียนรู้การทำเว็บหลายภาษาโดยสร้างเว็บจาก React และ react-i18next</p>
 
